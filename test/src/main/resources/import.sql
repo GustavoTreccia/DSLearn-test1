@@ -1,0 +1,12 @@
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Vita Yvon', '07127745056', 4.500, 2, '1980-03-12T12:48:07.12345Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Humayra Yordan', '47584328059', 3.100, 1, '1991-02-01T10:11:12.12345Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Torkel Hesiodos', '98770085056', 3.200, 3, '1981-06-13T12:48:12.12345Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Micheline Aitor', '61127951084', 4.800, 1, '1995-01-01T01:50:07.12345Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Eve Yaropolk', '15035063046', 5.000, 0, '1999-03-25T08:23:11.12345Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Rosendo Dylan', '98550690058', 2.500, 1, '1996-10-13T13:55:07.12345Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Rebekka Monika', '84581906059', 3.200, 3, '1970-12-31T10:53:09.12345Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Kamakshi Tilde', '25377675002', 8.000, 2, '1981-06-13T12:48:12.12345Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Anuja Yosuke', '30275692019', 6.800, 3, '1970-07-13T20:50:07.12345Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Cosmin Natalia', '36201664041', 1.500, 0, '2003-02-12T20:50:07.12345Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Hefina Jordi', '85314210045', 4.000, 1, '1981-04-18T13:42:01.12345Z');
+INSERT INTO tb_client (name, cpf, income, children, birth_Date) VALUES ('Billie Sindy', '87857164054', 3.700, 1, '1982-05-17T16:32:07.12345Z');
