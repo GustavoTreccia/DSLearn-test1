@@ -6,6 +6,8 @@ import org.springframework.stereotype.Repository;
 import com.test.point.entities.Client;
 
 @Repository
-public interface ClienteRepository extends JpaRepository<Client, Long>{
+public interface ClientRepository extends JpaRepository<Client, Long>{
+
+	Client getById(Long id);
 
 }
